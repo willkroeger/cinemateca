@@ -197,7 +197,7 @@ section {
 
 /*registro*/
 #vertice {
-    background-image: url('/imgs/no_lies.jpg');
+    background-image: url('../imgs/no_lies.jpg');
     width: 100%;
     max-width: 100vw;
     height: 100vh;
